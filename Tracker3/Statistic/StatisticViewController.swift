@@ -23,7 +23,7 @@ final class StatisticViewController: UIViewController {
         label.textColor = .black
         return label
     }()
-    
+     
     private let emptyStack: UIStackView = {
         let stack = UIStackView()
         stack.axis = .vertical

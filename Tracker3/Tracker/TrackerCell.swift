@@ -19,7 +19,7 @@ final class TrackerCell: UICollectionViewCell {
         view.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 0.3)
         return view
     }()
-    
+     
     private let emoji: UILabel = {
         let label = UILabel()
         label.font = UIFont.systemFont(ofSize: 12)
