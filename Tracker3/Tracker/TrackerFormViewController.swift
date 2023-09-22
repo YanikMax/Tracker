@@ -278,7 +278,7 @@ extension TrackerFormViewController: UITableViewDataSource {
         return listCell
     }
 }
-
+ 
 // MARK: - UITableViewDelegate
 
 // Обработчик нажатия на кнопку Расписание (case 1)

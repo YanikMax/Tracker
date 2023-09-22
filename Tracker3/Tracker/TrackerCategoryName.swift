@@ -10,7 +10,7 @@ final class TrackerCategoryNames: UICollectionReusableView {
         label.textColor = .black
         return label
     }()
-    
+   
     // MARK: - Lifecycle
     override init(frame: CGRect) {
         super.init(frame: frame)

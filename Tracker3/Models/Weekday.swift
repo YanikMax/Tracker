@@ -8,7 +8,7 @@ enum WeekDay: String, CaseIterable, Comparable {
     case friday = "Пятница"
     case saturday = "Суббота"
     case sunday = "Воскресенье"
-    
+     
     var shortForm: String {
         switch self {
         case .monday: return "Пн"

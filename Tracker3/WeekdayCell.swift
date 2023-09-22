@@ -1,5 +1,5 @@
 import UIKit
-
+ 
 protocol WeekdayCellDelegate: AnyObject {
     func didToggleSwitchView(to isSelected: Bool, of weekday: WeekDay)
 }

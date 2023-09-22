@@ -295,7 +295,7 @@ extension TrackersViewController: TrackerFormViewControllerDelegate {
         dismiss(animated: true)
     }
 }
-
+ 
 // MARK: - UISearchBarDelegate
 extension TrackersViewController: UISearchBarDelegate {
     func searchBarShouldBeginEditing(_ searchField: UISearchBar) -> Bool {

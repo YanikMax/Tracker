@@ -1,5 +1,5 @@
 import UIKit
-
+ 
 final class ListCell: UITableViewCell {
     // MARK: - Layout elements
     
